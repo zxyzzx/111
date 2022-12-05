@@ -3,7 +3,8 @@ coding-one homework
 
 Project Name：StormEye
 
-MIMIC Link:https://mimicproject.com/code/edb00f8f-6bc9-4576-b16e-72fb734d7b45
+MIMIC Link and Project code :
+https://mimicproject.com/code/edb00f8f-6bc9-4576-b16e-72fb734d7b45
 
 Project inspiration:
 The project inspired by a map adventure which I played, "Light Encounter", in the clouds kingdom, searching for lost souls around the world. Eventually taking the collected souls to the end of the map, the Garden of Eden, liberates the souls and returns them to the heavens.
@@ -12,6 +13,9 @@ I used this as inspiration for my project, so I used a red and black gradient sk
 
 Project Show：
 ![image](https://user-images.githubusercontent.com/119873123/205696991-0f7aa972-241f-45e1-aa66-f722cbda7060.png)
+
+Project video :
+https://user-images.githubusercontent.com/119873123/205703498-c317a9fb-ff22-40ab-8d16-80fb4b2ef12c.mp4
 
 Coding part:
 1. Sky box:
