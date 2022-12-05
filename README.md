@@ -6,6 +6,9 @@ Project Name：StormEye
 MIMIC Link and Project code :
 https://mimicproject.com/code/edb00f8f-6bc9-4576-b16e-72fb734d7b45
 
+Project video :
+https://user-images.githubusercontent.com/119873123/205703498-c317a9fb-ff22-40ab-8d16-80fb4b2ef12c.mp4
+
 Project inspiration:
 The project inspired by a map adventure which I played, "Light Encounter", in the clouds kingdom, searching for lost souls around the world. Eventually taking the collected souls to the end of the map, the Garden of Eden, liberates the souls and returns them to the heavens.
 I used this as inspiration for my project, so I used a red and black gradient sky box to render the atmosphere, with a rainbow coloured ball in the middle to symbolise the souls in the sky, I added the sound of wind and the random spheres to represent the rocks and hurricanes in the Garden of Eden. The rubble hurricane and the lost souls are the symbol of the confrontation between light and darkness.
@@ -13,9 +16,6 @@ I used this as inspiration for my project, so I used a red and black gradient sk
 
 Project Show：
 ![image](https://user-images.githubusercontent.com/119873123/205696991-0f7aa972-241f-45e1-aa66-f722cbda7060.png)
-
-Project video :
-https://user-images.githubusercontent.com/119873123/205703498-c317a9fb-ff22-40ab-8d16-80fb4b2ef12c.mp4
 
 Coding part:
 1. Sky box:
