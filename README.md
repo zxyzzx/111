@@ -2,6 +2,7 @@
 coding-one homework
 
 Project Name：StormEye
+MIMIC Link:https://mimicproject.com/code/edb00f8f-6bc9-4576-b16e-72fb734d7b45
 
 Project inspiration:
 The project inspired by a map adventure which I played, "Light Encounter", in the clouds kingdom, searching for lost souls around the world. Eventually taking the collected souls to the end of the map, the Garden of Eden, liberates the souls and returns them to the heavens.
